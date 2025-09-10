@@ -1,43 +1,60 @@
-📌 Penjelasan
+📌 Penjelasan Aplikasi Laundry
+Aplikasi Laundry ini dirancang untuk memberikan kemudahan dan kenyamanan bagi pengguna dalam mengakses layanan laundry tanpa harus datang langsung ke tempat.
+Melalui aplikasi ini, pengguna dapat:
 
-Aplikasi Laundry ini dirancang untuk memberikan kemudahan dan kenyamanan bagi pengguna dalam mengakses layanan laundry. Melalui aplikasi ini, pengguna dapat:
+🔹 Memilih layanan laundry sesuai kebutuhan (cuci kering + setrika, atau cuci kering saja).
+🔹 Menjadwalkan penjemputan & pengantaran pakaian ke lokasi pengguna.
+🔹 Memantau status & proses laundry secara real-time.
+🔹 Menggunakan berbagai metode pembayaran fleksibel (tunai, transfer, e-wallet).
+🔹 Melihat riwayat pemesanan untuk memudahkan pemesanan ulang.
 
-Memilih jenis layanan sesuai kebutuhan (cuci kering & setrika, atau cuci kering saja).
+Dengan adanya aplikasi ini, layanan laundry menjadi lebih praktis, efisien, dan nyaman.
 
-Menjadwalkan layanan penjemputan maupun pengantaran pakaian ke lokasi pengguna.
-
-Memantau status dan proses laundry secara real-time.
-
-Selain itu, aplikasi juga dilengkapi dengan berbagai opsi metode pembayaran yang fleksibel serta fitur riwayat transaksi, sehingga pengguna dapat melihat pesanan sebelumnya dengan mudah. Dengan adanya aplikasi ini, layanan laundry dapat diakses tanpa harus datang langsung ke pusat layanan, menjadikannya lebih praktis, efisien, dan nyaman.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Fitur Utama
+1. Pilihan Layanan Laundry
+🔹 Cuci kering + setrika
+🔹 Cuci kering 
 
-Pilihan Layanan Laundry
+2. Jadwal Penjemputan
+🔹 Penentuan waktu penjemputan sesuai kebutuhan pengguna.
+🔹 Opsi pengantaran kembali pakaian setelah selesai.
 
-Cuci kering + setrika
+3. Tracking Proses Laundry
+🔹 Pemantauan status pengerjaan secara real-time (misalnya: dijemput → dicuci → disetrika → siap dikirim).
 
-Cuci kering saja
+4. Metode Pembayaran
+Mendukung berbagai opsi pembayaran:
+🔹 Tunai
+🔹 Transfer Bank
+🔹 E-Wallet (OVO, GoPay, Dana, dll.)
 
-Jadwal Penjemputan
+5. Riwayat Pemesanan
+🔹 Menyimpan data transaksi sebelumnya.
+🔹 Memudahkan pengguna untuk melakukan pemesanan ulang.
 
-Penentuan waktu penjemputan sesuai kebutuhan pengguna.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tracking Proses Laundry
+👥 Role & Fungsi
+● Admin
+🔹 Mengelola data layanan (jenis laundry, harga, estimasi waktu).
+🔹 Mengelola data pengguna & pesanan.
+🔹 Melihat dan memperbarui status proses laundry.
+🔹 Mengelola metode pembayaran.
+🔹 Membuat laporan transaksi & pendapatan.
 
-Pemantauan status pengerjaan secara langsung (real-time).
+● Pengguna (User)
+🔹 Registrasi & login ke aplikasi.
+🔹 Memilih layanan laundry sesuai kebutuhan.
+🔹 Menjadwalkan penjemputan & pengantaran pakaian.
+🔹 Melacak status laundry secara real-time.
+🔹 Melakukan pembayaran dengan opsi yang tersedia.
+🔹 Melihat riwayat transaksi & memesan ulang.
 
-Metode Pembayaran
-
-Mendukung berbagai opsi pembayaran fleksibel (tunai, transfer, atau e-wallet).
-
-Riwayat Pemesanan
-
-Menyimpan data transaksi sebelumnya untuk memudahkan pengguna melakukan pemesanan ulang.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Teknologi yang Digunakan
-
-Backend : PHP (untuk logika aplikasi dan pemrosesan data).
-
-Frontend : HTML, CSS, dan Bootstrap (untuk tampilan antarmuka yang responsif dan modern).
-
-Database : MySQL (untuk penyimpanan data pengguna, transaksi, dan layanan).
+🔹 Backend : PHP → mengatur logika aplikasi & pemrosesan data.
+🔹 Frontend : HTML, CSS, Bootstrap → tampilan antarmuka yang responsif & modern.
+🔹 Database : MySQL → penyimpanan data pengguna, transaksi, layanan, & status laundry.
