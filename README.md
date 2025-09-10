@@ -32,6 +32,13 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 - Mengatur metode pembayaran
 - Membuat laporan transaksi & pendapatan
 
+### 💰 Kasir
+- Menerima dan memverifikasi pesanan dari pengguna
+- Mengelola pembayaran (tunai, transfer, e-wallet)
+- Mencatat transaksi ke sistem
+- Memberikan konfirmasi pembayaran kepada pengguna
+- Membuat laporan keuangan harian
+
 ### 🙍🏻‍♂️ Pengguna (User)
 - Registrasi & login aplikasi
 - Memilih layanan laundry
@@ -46,7 +53,3 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 - **Backend** : PHP  
 - **Frontend** : HTML, CSS, Bootstrap  
 - **Database** : MySQL  
-
----
-
-
