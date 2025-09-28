@@ -59,21 +59,21 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 ## 📊 Diagram yang Digunakan 
 ### Diagram yang Digunakan 
 ### 🧩 Activity Diagram  
-Menjelaskan **alur aktivitas pengguna dan sistem** secara keseluruhan, mulai dari pemesanan hingga proses penyelesaian laundry.
+Menjelaskan **alur aktivitas pengguna dan sistem** secara keseluruhan, mulai dari pemesanan sampai proses penyelesaian pemesanan.
 
 <img width="1001" height="1331" alt="activity - laundry-noback drawio" src="https://github.com/user-attachments/assets/13c374b9-7d25-4eb2-a706-1f25fc97c509" />
 
 ---
 
 ### 🔄 Flowchart Diagram  
-Menggambarkan **alur logika dan proses bisnis** aplikasi dari awal hingga akhir.
+Menjelaskan **alur logika dan proses pemesanan** dari awal sampai akhir.
 
 <img width="844" height="1090" alt="flowchart - laundry-noback drawio" src="https://github.com/user-attachments/assets/61e19a75-c34c-45e8-8462-bb8e2e985ed7" />
 
 ---
 
 ### 📶 Sequence Diagram  
-Menunjukkan **urutan interaksi** antara pengguna, sistem, dan database selama proses layanan laundry berlangsung.
+Menjelaskane **urutan interaksi** antara pengguna, dan sistem selama proses layanan laundry berlangsung.
 
 <img width="611" height="1012" alt="sequence - launry-noback drawio" src="https://github.com/user-attachments/assets/9b5d84a7-38a2-4cd9-894d-a2f87d711066" />
 
