@@ -56,10 +56,30 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 
 ---
 
-##  Diagram yang Digunakan 
+## 📊 Diagram yang Digunakan 
 ### Diagram yang Digunakan 
-- **Activity**
-- **Flowchart**
-- **Sequenc<img width="512" height="512" alt="flow-diagram" src="https://github.com/user-attachments/assets/7b99fe53-f7b2-4761-aa40-cc2a36827e8d" />
-e**
-- **use Case**
+### 🧩 Activity Diagram  
+Menjelaskan **alur aktivitas pengguna dan sistem** secara keseluruhan, mulai dari pemesanan hingga proses penyelesaian laundry.
+
+![Activity Diagram](https://cdn-icons-png.flaticon.com/512/1087/1087925.png)
+
+---
+
+### 🔄 Flowchart Diagram  
+Menggambarkan **alur logika dan proses bisnis** aplikasi dari awal hingga akhir.
+
+![Flowchart Diagram](https://cdn-icons-png.flaticon.com/512/4472/4472519.png)
+
+---
+
+### 📶 Sequence Diagram  
+Menunjukkan **urutan interaksi** antara pengguna, sistem, dan database selama proses layanan laundry berlangsung.
+
+![Sequence Diagram](https://cdn-icons-png.flaticon.com/512/2721/2721294.png)
+
+---
+
+### 🧑‍💻 Use Case Diagram  
+Menjelaskan **peran aktor (Admin, Kasir, User)** dan interaksi mereka dengan sistem.
+
+![Use Case Diagram](https://cdn-icons-png.flaticon.com/512/1006/1006363.png)
