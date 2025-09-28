@@ -53,14 +53,12 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 - **Backend** : PHP  
 - **Frontend** : HTML, CSS, Bootstrap  
 - **Database** : MySQL
-- flowchart TD
-    A[Pengguna Registrasi/Login] --> B[Pilih Layanan Laundry]
-    B --> C[Jadwalkan Penjemputan]
-    C --> D[Konfirmasi Pesanan]
-    D --> E[Penjemputan oleh Kurir]
-    E --> F[Proses Laundry (Cuci & Setrika)]
-    F --> G[Update Status oleh Admin]
-    G --> H[Pembayaran oleh Pengguna]
-    H --> I[Pengantaran Pakaian]
-    I --> J[Pesanan Selesai]
-    J --> K[Riwayat Pemesanan Tersimpan]
+
+---
+
+## DIAGRAM yang Digunakan 
+### Diagram yang Digunakan 
+- **Activity**
+- **Flowchart**
+- **Sequence**
+- **use Case**
