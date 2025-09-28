@@ -61,25 +61,25 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 ### 🧩 Activity Diagram  
 Menjelaskan **alur aktivitas pengguna dan sistem** secara keseluruhan, mulai dari pemesanan hingga proses penyelesaian laundry.
 
-<img width="1001" height="1331" alt="activity - laundry drawio" src="https://github.com/user-attachments/assets/945644c7-dbfd-4059-9822-93954c8acfee" />
+<img width="1001" height="1331" alt="activity - laundry-noback drawio" src="https://github.com/user-attachments/assets/13c374b9-7d25-4eb2-a706-1f25fc97c509" />
 
 ---
 
 ### 🔄 Flowchart Diagram  
 Menggambarkan **alur logika dan proses bisnis** aplikasi dari awal hingga akhir.
 
-<img width="844" height="1090" alt="flowchart - laundry drawio" src="https://github.com/user-attachments/assets/b20a4ae8-eee3-4cec-984b-833db338caae" />
+<img width="844" height="1090" alt="flowchart - laundry-noback drawio" src="https://github.com/user-attachments/assets/61e19a75-c34c-45e8-8462-bb8e2e985ed7" />
 
 ---
 
 ### 📶 Sequence Diagram  
 Menunjukkan **urutan interaksi** antara pengguna, sistem, dan database selama proses layanan laundry berlangsung.
 
-<img width="612" height="1012" alt="sequence - laundry drawio" src="https://github.com/user-attachments/assets/b0a4065b-2503-4a7c-964d-7c02d4ae594c" />
+<img width="611" height="1012" alt="sequence - launry-noback drawio" src="https://github.com/user-attachments/assets/9b5d84a7-38a2-4cd9-894d-a2f87d711066" />
 
 ---
 
 ### 🧑‍💻 Use Case Diagram  
 Menjelaskan **peran aktor (Admin, Kasir, User)** dan interaksi mereka dengan sistem.
 
-<img width="696" height="721" alt="use case - laundry drawio" src="https://github.com/user-attachments/assets/f52d605c-9ea7-4a91-90f1-62b955ff010c" />
+<img width="696" height="721" alt="use case - laundry-noback drawio" src="https://github.com/user-attachments/assets/335e819c-9cdf-4ae5-a0ae-ffd9d57dc8a2" />
