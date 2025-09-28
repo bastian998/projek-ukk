@@ -61,25 +61,25 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 ### 🧩 Activity Diagram  
 Menjelaskan **alur aktivitas pengguna dan sistem** secara keseluruhan, mulai dari pemesanan hingga proses penyelesaian laundry.
 
-![Activity Diagram](https://cdn-icons-png.flaticon.com/512/1087/1087925.png)
+<img width="1001" height="1331" alt="activity - laundry drawio" src="https://github.com/user-attachments/assets/945644c7-dbfd-4059-9822-93954c8acfee" />
 
 ---
 
 ### 🔄 Flowchart Diagram  
 Menggambarkan **alur logika dan proses bisnis** aplikasi dari awal hingga akhir.
 
-![Flowchart Diagram](https://cdn-icons-png.flaticon.com/512/4472/4472519.png)
+<img width="844" height="1090" alt="flowchart - laundry drawio" src="https://github.com/user-attachments/assets/b20a4ae8-eee3-4cec-984b-833db338caae" />
 
 ---
 
 ### 📶 Sequence Diagram  
 Menunjukkan **urutan interaksi** antara pengguna, sistem, dan database selama proses layanan laundry berlangsung.
 
-![Sequence Diagram](https://cdn-icons-png.flaticon.com/512/2721/2721294.png)
+<img width="612" height="1012" alt="sequence - laundry drawio" src="https://github.com/user-attachments/assets/b0a4065b-2503-4a7c-964d-7c02d4ae594c" />
 
 ---
 
 ### 🧑‍💻 Use Case Diagram  
 Menjelaskan **peran aktor (Admin, Kasir, User)** dan interaksi mereka dengan sistem.
 
-![Use Case Diagram](https://cdn-icons-png.flaticon.com/512/1006/1006363.png)
+<img width="696" height="721" alt="use case - laundry drawio" src="https://github.com/user-attachments/assets/f52d605c-9ea7-4a91-90f1-62b955ff010c" />
