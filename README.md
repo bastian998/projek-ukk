@@ -56,9 +56,10 @@ Dengan aplikasi ini, layanan laundry dapat dipesan secara **praktis, efisien, da
 
 ---
 
-## DIAGRAM yang Digunakan 
+##  Diagram yang Digunakan 
 ### Diagram yang Digunakan 
 - **Activity**
 - **Flowchart**
-- **Sequence**
+- **Sequenc<img width="512" height="512" alt="flow-diagram" src="https://github.com/user-attachments/assets/7b99fe53-f7b2-4761-aa40-cc2a36827e8d" />
+e**
 - **use Case**
